@@ -1,6 +1,6 @@
  # Projeto Bimestral de HTML
 
-Este repositório contém o código HTML para o meu projeto bimestral. O projeto consiste em uma página web que apresenta [inserir tema ou descrição do projeto].
+Este repositório contém o código HTML para o meu projeto bimestral. O projeto consiste em uma página web que apresenta o site de cadastro e controle de uma biblioteca.
 
 ## Como Usar
 
@@ -16,8 +16,8 @@ https://kenteni21.github.io/biblioteca/
 
 ## Contribuições
 
- - José Kenteni Alves Benedito.
- - Douglas Emanuel de Caldas Lacerda.
+ - José Kenteni Alves Benedito. N°20
+ - Douglas Emanuel de Caldas Lacerda. N°10
 
 ## Agradecimentos
 
